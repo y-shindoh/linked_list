@@ -1,0 +1,3 @@
+linked list:
+
+http://ja.wikipedia.org/wiki/%E9%80%A3%E7%B5%90%E3%83%AA%E3%82%B9%E3%83%88
